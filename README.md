@@ -1,2 +1,2 @@
 # mysite
-sample django project
+sample django project demo
